@@ -1,8 +1,8 @@
 # SETUP
 
 # FUNDAMENTALS
-- [ ] Fundamentals of AI
-- [ ] Exploring NN Architectures
+- [X] Fundamentals of AI
+- [X] Exploring NN Architectures
 - [ ] Intro to PyTorch
 - [ ] Backpropagation 
 - [ ] Intro to PyTorch Lightning, Tensorboard and Gradio
