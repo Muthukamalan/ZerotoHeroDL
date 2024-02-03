@@ -18,6 +18,11 @@ Word::   Characters, Words, Sentences, Paragraphs, Book
 Waves::  Sine and cosine (fourier)
 
 
+- A collection of neurons that holds contextually similar information
+- Output of FC layer
+- Output of kernels
+
+
 `Anything complex can be made from simpler stuff!`
 
 ![cortex](./assets/channel-combination-in-cortex.png)
@@ -34,6 +39,9 @@ Waves::  Sine and cosine (fourier)
 ![conv-operations](./assets/kernel-operations.gif)
 <!-- <img src="./assets/kernel-operations.gif"  width="1000" height="600"> -->
 
+Kernel: Feature Extrator
+
+3x3 The 9 values we have in a 3x3 kernel are the values which our neural network needs to learn! 
 
 *we are adding imaginary numbers. This by the way is called padding
 
@@ -52,9 +60,13 @@ conversion of spatial to temporal data and vice-versa
 
 ###### RF and Attentions
 
+**It's the area that you can pay attention to and understand at any given moment**
+
 Image::RF
 
 ![RF](./assets/RF.gif)
+
+RF of the kernels in the last layer atleast equal to size of an imahe
 
 NLP::attention
 
