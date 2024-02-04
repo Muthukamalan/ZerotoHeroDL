@@ -48,8 +48,8 @@ Kernel: Feature Extrator
 
 - Fully Connected Layers
 
-  suffers (lost in position information after transforming)
-
+  suffers (lost in position information after transforming) so, there is no concept of spatial or temporal information. Neurons are responsible to learn an abstract representation of the data
+  
 **flatterned three**
 ![unroll-three](./assets/three_flattenned.png)
 
