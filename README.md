@@ -3,8 +3,8 @@
 # FUNDAMENTALS
 - [X] Fundamentals of AI
 - [X] Exploring NN Architectures
-- [ ] Intro to PyTorch
-- [ ] Backpropagation 
+- [X] [Intro to PyTorch](https://github.com/Muthukamalan/PyTorch-Basics)
+- [X] Backpropagation 
 - [ ] Intro to PyTorch Lightning, Tensorboard and Gradio
 
 # VISION
