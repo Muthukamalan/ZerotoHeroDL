@@ -12,7 +12,7 @@
 - [ ] Optimizations
 - [ ] Data Augmentation
 - [ ] Residual Connections in CNN and FC
-- [ ] Unsolved MNIST
+- [X] Unsolved MNIST
 - [ ] Segmentation Model
 - [ ] YOLO
 - [ ] UNETs, Variation AutoEncoders and Applications
