@@ -10,7 +10,7 @@
 # VISION
 - [ ] Advanced Architectures in Convolution
 - [ ] Optimizations
-- [ ] Data Augmentation
+- [X] Data Augmentation
 - [ ] Residual Connections in CNN and FC
 - [X] Unsolved MNIST
 - [ ] Segmentation Model
