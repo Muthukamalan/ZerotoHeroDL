@@ -63,6 +63,7 @@ class Trainer:
             else:
                 clr = self.optimizer.param_groups[0]['lr']
             caccuracy = 100*correct/processed
+            lr_trend.append(clr)
             
             pbar.set_description(desc=f"EPOCH={epoch}| LR={clr:3f}| LOSS={loss.item():3.2f}| BATCH={batch_id}| ACCURACY={caccuracy:0.3f}")
             self.train_accuracies.append(caccuracy)
