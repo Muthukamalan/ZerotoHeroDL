@@ -2,7 +2,7 @@
 
 ## <center>Original Image 🐕</center>
 - [X] Image with Occlusion 
-- [X] Different shapes in sample image
+- [X] Different shapes in same image
 - [X] Multiple Objects in same image
 
 ![StreetDogs](./assets/streetdogs.jpg)
