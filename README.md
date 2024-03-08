@@ -8,7 +8,7 @@
 - [ ] Intro to PyTorch Lightning, Tensorboard and Gradio
 
 # VISION
-- [ ] Advanced Architectures in Convolution
+- [X] Advanced Architectures in Convolution & Visualization
 - [ ] Optimizations
 - [X] Data Augmentation
 - [ ] Residual Connections in CNN and FC
