@@ -93,3 +93,11 @@ Q: `How do we increase channels size after convolution`
 
 - RMDA ( Rich Man's ) 
     - Reinforcement Learning or AutoAugmentations
+
+
+# Dense VS Sparse Problems
+
+- [X] Invariance   e.g) classification
+- [X] Equivariance e.g) segmentation
+ 
+<img src="../assets/sparse%20vs%20dense%20problem.png" alt="Dense VS Sparse Problem" width="500"/>
