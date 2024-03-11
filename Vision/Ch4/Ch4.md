@@ -22,7 +22,7 @@ CNN Features
 ---
 - [cnn Visualization](https://poloclub.github.io/cnn-explainer/)
 - [feature visualization](https://distill.pub/2017/feature-visualization/)
-
+- [Invarient Features](https://www.quora.com/How-is-a-convolutional-neural-network-able-to-learn-invariant-features)
 
 
 # **Note:**
