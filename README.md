@@ -9,9 +9,9 @@
 
 # VISION
 - [X] Advanced Architectures in Convolution & Visualization
-- [ ] Optimizations
+- [X] Optimizations
 - [X] Data Augmentation
-- [ ] Residual Connections in CNN and FC
+- [X] Residual Connections in CNN and FC
 - [X] Unsolved MNIST
 - [ ] Segmentation Model
 - [ ] YOLO
